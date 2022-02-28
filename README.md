@@ -22,10 +22,10 @@
 
 <h3>Package Managers</h3>
 
-<img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" heigth="30px">
-NPM
-<img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px" heigth="30px">
-Yarn
+<img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" heigth="30px"> NPM
+
+<img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px" heigth="30px"> Yarn
+
 
 
 <!---

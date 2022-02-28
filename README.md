@@ -4,7 +4,7 @@
 - 🔥 I really like Javascript and your frameworks
 - 🎮 I love so much videogames
 
-<img src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" align="right" width="100px" heigth="100px" >
+<img src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" align="left" width="100px" heigth="100px" >
 
 <br><br>
 

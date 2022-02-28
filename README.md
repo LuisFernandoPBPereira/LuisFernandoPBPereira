@@ -5,7 +5,7 @@
 - 🎮 I love so much videogames
 <img src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" align="left" width="100px" heigth="100px" >
 
-<br><br>
+<br><br><br><br>
 
 
 <h2> My Stacks </h2>

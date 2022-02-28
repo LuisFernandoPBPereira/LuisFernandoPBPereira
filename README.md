@@ -9,7 +9,7 @@
 <div>
      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=true">
      <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&amp;layout=compact&amp;langs_count=7&amp;theme=react">
-     <img src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" align="left" width="100px" heigth="100px" >
+     <img align="right" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" align="left" width="120px" heigth="120px" >
 </div>
 
 <br><br>

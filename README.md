@@ -17,8 +17,10 @@
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c#)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
-![NPM](https://github.com/get-icon/geticon/raw/master/icons/npm.svg)&nbsp;
-![Yarn](https://github.com/get-icon/geticon/raw/master/icons/yarn.svg)nbsp;
+<img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" heigth="30px">
+NPM
+<img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px" heigth="30px">
+Yarn
 
 
 <!---

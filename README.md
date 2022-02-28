@@ -8,7 +8,7 @@
 <br><br><br><br><br><br>
 <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=true">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&amp;layout=compact&amp;langs_count=7&amp;theme=react">
+     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&amp;layout=compact&amp;langs_count=7&amp;theme=react">
 </div>
 
 <br><br>

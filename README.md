@@ -3,12 +3,13 @@
 - 💻 I'm student at the ETEC (Escola Técnica de Embu // Technical School - Embu), studying Systems Development
 - 🔥 I really like Javascript and your frameworks
 - 🎮 I love so much videogames
-<img src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" align="left" width="100px" heigth="100px" >
+
 
 <br><br><br><br><br><br>
 <div>
      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=true">
-     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&amp;layout=compact&amp;langs_count=7&amp;theme=react">
+     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&amp;layout=compact&amp;langs_count=7&amp;theme=react">
+     <img src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" align="left" width="100px" heigth="100px" >
 </div>
 
 <br><br>

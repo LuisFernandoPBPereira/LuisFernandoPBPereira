@@ -4,7 +4,7 @@
 - 🔥 I really like Javascript and your frameworks
 - 🎮 I love so much videogames
 
-<br><br><br><br>
+<br><br>
 
 <div>
      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=true">

@@ -14,7 +14,6 @@
 
 <br><br>
 
-
 <h2> My Stacks </h2>
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
@@ -25,6 +24,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c#)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+<img width="20px" src="https://user-images.githubusercontent.com/86135150/156274074-58fc63ae-5563-4999-9f1f-0e1437888dbd.png">![Batch](https://img.shields.io/badge/-Batchfile-05122A)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 
 <br><br>

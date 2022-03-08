@@ -1,4 +1,4 @@
-<h1 align="left"> Hello my friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luis! </h1>
+<h1 align="left"> Hello my friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luis!</h1>
 
 - 💻 I'm student at the ETEC (Escola Técnica de Embu // Technical School - Embu), studying Systems Development
 - 🔥 I really like Javascript and your frameworks
@@ -7,10 +7,10 @@
 <br><br>
 
 <div>
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&show_icons=true&theme=midnight-purple" style="max-width:100%;"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&layout=compact&theme=midnight-purple" style="max-width:100%;">
-  <br><br>
-     <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="120px" heigth="120px" >
+  <div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&show_icons=true&theme=chartreuse-dark" style="max-width:100%;"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&layout=compact&theme=chartreuse-dark" style="max-width:100%;">
+    <br><br>
+       <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="120px" heigth="120px" >
 </div>
 
 <br><br>

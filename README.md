@@ -7,8 +7,8 @@
 <br><br>
 
 <div>
-     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&amp;show_icons=true&amp;theme=react&amp;include_all_commits=true&amp;count_private=true">
-     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&amp;layout=compact&amp;langs_count=7&amp;theme=react">
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&show_icons=true&theme=blueberry" style="max-width:100%;"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&layout=compact&theme=blueberry" style="max-width:100%;">
      <img align="right" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="120px" heigth="120px" >
 </div>
 

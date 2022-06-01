@@ -1,5 +1,5 @@
 <!---======================================================================= This is the title ============================================================--->
-<h1 align="center"> Hello my friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luis!</h1>
+<h1 align="center"> Hello my friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5%">, I'm Luis!</h1>
 
 - 💻 I'm student at the ETEC (Escola Técnica de Embu // Technical School - Embu), studying Systems Development
 - 🔥 I really like Javascript and your frameworks
@@ -16,7 +16,7 @@
         <br>
         <a href="https://github.com/Buscafe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Buscafe&layout=compact&theme=chartreuse-dark&repo=Backend"></a>
     <br><br><br><br>
-       <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="120px" heigth="120px" >
+       <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="25%" heigth="25%" >
 </div>
 <!---======================================================================================================================================================--->
 

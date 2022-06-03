@@ -2,11 +2,13 @@
 <h1 align="center"> Hello my friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5%">, I'm Luis!</h1>
 
 - 💻 I'm student at the ETEC (Escola Técnica de Embu // Technical School - Embu), studying Systems Development
+- 🔠 I study English in Duolingo
 - 🔥 I really like Javascript and your frameworks
 - 🎮 I love so much videogames
-<!---======================================================================================================================================================--->
-<br><br>
 
+<!---======================================================================================================================================================--->
+***
+<br><br>
 <!---======================================================================= Github Stats =================================================================--->
 <div>
   <div align="center">
@@ -16,11 +18,29 @@
         <br>
         <a href="https://github.com/Buscafe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Buscafe&layout=compact&theme=chartreuse-dark&repo=Backend"></a>
     <br><br><br><br>
-       <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="25%" heigth="25%" >
 </div>
 <!---======================================================================================================================================================--->
 
 <br><br>
+  
+  <!---===================================================================== Social Media ===================================================================--->
+<div align="center">
+
+  <h1>Social Media</h1>
+  
+  <a href="https://www.linkedin.com/in/luis-fernando-pedro-bom-pereira-1b4821210/" width="1000px"> <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="50px" heigth="50px"> </a>  <p>LinkedIn</p> 
+
+  <a href="https://www.instagram.com/luis.fernandop.b.pereira" width="1000px"> <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/instagram-circle.png" width="50px" heigth="50px"> </a>  <p>Instagram</p> 
+  
+  <a href="mailto:luisfernandopbp@gmail.com"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" width="50px" heigth="50px"></a> <p>Gmail</p> 
+
+  <br><br>
+  
+  <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="25%" heigth="25%" >
+  
+</div>
+ 
+<!---======================================================================================================================================================--->
 <!---============================================================= My Stacks - Languages and IDE ==========================================================--->
   
 <h2> My Stacks </h2>

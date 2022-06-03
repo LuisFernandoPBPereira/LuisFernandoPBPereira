@@ -5,6 +5,7 @@
 - 🔠 I study English in Duolingo
 - 🔥 I really like Javascript and your frameworks
 - 🎮 I love so much videogames
+- 🙏✝ I am part of the <a href="https://github.com/buscafe">BuscaFé</a> project (ETEC)
 
 <!---======================================================================================================================================================--->
 ***
@@ -62,9 +63,9 @@
 
 <h3>My Package Managers</h3>
 
-<img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" heigth="30px"> NPM
+<a href="https://www.npmjs.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" heigth="30px"></a> NPM
 
-<img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px" heigth="30px"> Yarn
+<a href="https://yarnpkg.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px" heigth="30px"></a> Yarn
 
 
 

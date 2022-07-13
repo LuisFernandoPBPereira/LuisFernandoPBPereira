@@ -1,7 +1,8 @@
 <!---======================================================================= This is the title ============================================================--->
-<h1 align="center"> Hello my friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5%">, I'm Luis!</h1>
+<h1 align="center"> Hello my friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luis!</h1>
 
-- 💻 I'm student at the ETEC (Escola Técnica de Embu // Technical School - Embu), studying Systems Development
+- 💻 I'm graduated in Systems Development at the ETEC (Escola Técnica de Embu // Technical School - Embu)
+- 🔠 I've B1 Intermediate in English at EF SET - Education First // <a href="https://www.efset.org/cert/9PZnG8">Certificate</a>
 - 🔠 I study English in Duolingo
 - 🔥 I really like Javascript and your frameworks
 - 🎮 I love so much videogames
@@ -14,10 +15,6 @@
 <div>
   <div align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&show_icons=true&theme=chartreuse-dark" style="max-width:100%;"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&layout=compact&theme=chartreuse-dark" style="max-width:100%;">
-    <h3>Working on:</h3>
-        <a href="https://github.com/Buscafe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Buscafe&layout=compact&theme=chartreuse-dark&repo=Frontend"></a>
-        <br>
-        <a href="https://github.com/Buscafe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Buscafe&layout=compact&theme=chartreuse-dark&repo=Backend"></a>
     <br><br><br><br>
 </div>
 <!---======================================================================================================================================================--->
@@ -36,7 +33,7 @@
 
   <br><br>
   
-  <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="25%" heigth="25%" >
+  <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="50%" heigth="50%" >
   
 </div>
  

@@ -33,7 +33,7 @@
 <!---======================================================================= Github Stats =================================================================--->
 <div>
   <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisFernandoPBPereira&show_icons=true&theme=chartreuse-dark" style="max-width:100%;"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoPBPereira&layout=compact&theme=chartreuse-dark" style="max-width:100%;">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
     <br><br><br><br>
 </div>
 <!---======================================================================================================================================================--->

@@ -46,7 +46,7 @@
   
   <a href="https://www.linkedin.com/in/luis-fernando-pedro-bom-pereira-1b4821210/" width="1000px"> <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="50px" heigth="50px"> </a>  <p>LinkedIn</p> 
 
-  <a href="https://www.instagram.com/luis.fernandop.b.pereira" width="1000px"> <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/instagram-circle.png" width="50px" heigth="50px"> </a>  <p>Instagram</p> 
+  <a href="https://www.instagram.com/luis_fernando.dev" width="1000px"> <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/instagram-circle.png" width="50px" heigth="50px"> </a>  <p>Instagram</p> 
   
   <a href="mailto:luisfernandopbp@gmail.com"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" width="50px" heigth="50px"></a> <p>Gmail</p> 
 

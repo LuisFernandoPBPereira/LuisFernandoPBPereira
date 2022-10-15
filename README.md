@@ -16,6 +16,7 @@
 <h2 align="center"> My Stacks </h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">
+  <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="50px">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" width="60px">

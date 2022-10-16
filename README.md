@@ -77,8 +77,3 @@
 <a href="https://www.npmjs.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" heigth="30px"></a> NPM
 
 <a href="https://yarnpkg.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px" heigth="30px"></a> Yarn
-
-
-
-![vscode]()
-

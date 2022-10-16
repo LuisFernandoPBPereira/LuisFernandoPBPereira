@@ -24,8 +24,19 @@
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/php.svg" width="80px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-plusplus.svg" width="50px">
+  <img src="https://user-images.githubusercontent.com/86135150/196010957-535c1b33-9f2d-4304-b603-39bbbc17a914.svg" width="60px">
+  <img src="https://user-images.githubusercontent.com/86135150/196010956-8bcf4aa3-9c65-47b0-ba02-1bbe32f410c7.svg" width="40px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/batch.svg" width="50px">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="50px">
+</div>
+ 
+<br>
+
+<div align="center">
+  <h2 align="center">My Favorite IDE</h2>
+  <img src="https://user-images.githubusercontent.com/86135150/196011101-a1559b06-b025-425a-b1f5-fc9fcc084ff4.svg" width="70px">
+  <br>
+  <strong>Current theme: Aura Theme</strong>
 </div>
   
 <!---======================================================================================================================================================--->
@@ -66,3 +77,8 @@
 <a href="https://www.npmjs.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" heigth="30px"></a> NPM
 
 <a href="https://yarnpkg.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px" heigth="30px"></a> Yarn
+
+
+
+![vscode]()
+

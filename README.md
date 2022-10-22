@@ -64,7 +64,7 @@
 
   <br><br>
   
-  <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="50%" heigth="50%" >
+  <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="30%" heigth="30%" >
   
 </div>
  

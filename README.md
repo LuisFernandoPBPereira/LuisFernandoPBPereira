@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <h2 align="center">My Favorite IDE</h2>
+  <h2 align="center">My Favorite Text Editor</h2>
   <img src="https://user-images.githubusercontent.com/86135150/196011101-a1559b06-b025-425a-b1f5-fc9fcc084ff4.svg" width="70px">
   <br>
   <strong>Current theme: Aura Theme</strong>

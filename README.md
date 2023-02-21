@@ -1,12 +1,13 @@
 <!---======================================================================= This is the title ============================================================--->
-<h1 align="center"> &ltHello dev/&gt;, I'm Luis!</h1>
+<h1 align="center"> &ltHello dev/&gt;, I'm <a href="https://luis-fernando-dev.vercel.app/">Luis</a>!</h1>
 
-- 💻 I'm graduated in Systems Development at the ETEC (Escola Técnica de Embu // Technical School - Embu)
+- 💻 I've a degree in Systems Development at the ETEC (Escola Técnica de Embu // Technical School - Embu)
 - 🔠 I've B1 Intermediate in English at EF SET - Education First // <a href="https://www.efset.org/cert/9PZnG8">Certificate</a>
 - 🔠 I study English in Duolingo
 - 🔥 I really like Javascript and your frameworks
 - 🎮 I love so much videogames
 - 🙏✝ I am part of the <a href="https://github.com/buscafe">BuscaFé</a> project (ETEC)
+- 🔥 Here is my portfolio to see my builded projects: <a href="https://luis-fernando-dev.vercel.app/">https://luis-fernando-dev.vercel.app/</a>
 
 <!---======================================================================================================================================================--->
 ***

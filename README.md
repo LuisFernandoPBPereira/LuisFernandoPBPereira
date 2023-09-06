@@ -24,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" width="60px">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/php.svg" width="80px">
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-plusplus.svg" width="50px">
   <img src="https://user-images.githubusercontent.com/86135150/196010957-535c1b33-9f2d-4304-b603-39bbbc17a914.svg" width="60px">

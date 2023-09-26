@@ -8,7 +8,7 @@
 - 🔥 I really like Javascript, your frameworks and libraries
 - 🎮 I love so much videogames
 - 🙏✝ I am part of the <a href="https://github.com/buscafe">BuscaFé</a> project (ETEC)
-- 🔥 Here is my portfolio to see my builded projects: <a href="https://luis-fernando-dev.vercel.app/">https://luis-fernando-dev.vercel.app/</a>
+- 🔥 Here is my portfolio to see my built projects: <a href="https://luis-fernando-dev.vercel.app/">https://luis-fernando-dev.vercel.app/</a>
 
 <!---======================================================================================================================================================--->
 ***

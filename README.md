@@ -27,7 +27,9 @@
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-plusplus.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/dotnet.svg" width="50px"/>
   <img src="https://user-images.githubusercontent.com/86135150/196010957-535c1b33-9f2d-4304-b603-39bbbc17a914.svg" width="60px">
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/python.svg" width="50px"/>
   <img src="https://user-images.githubusercontent.com/86135150/196010956-8bcf4aa3-9c65-47b0-ba02-1bbe32f410c7.svg" width="40px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/batch.svg" width="50px">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="50px">

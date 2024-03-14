@@ -14,8 +14,6 @@
 ***
 
 <!---============================================================= My Stacks - Languages and IDE ==========================================================--->
-  
-<h2 align="center"> My Stacks </h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">
   <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">
@@ -34,16 +32,19 @@
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/batch.svg" width="50px">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="50px">
 </div>
+<br/>
+<h2 align="center"> My Favorities</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">
+  <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/dotnet.svg" width="50px"/>
+</div>
  
 <br>
 
-<div align="center">
-  <h2 align="center">My Favorite Text Editor</h2>
-  <img src="https://user-images.githubusercontent.com/86135150/196011101-a1559b06-b025-425a-b1f5-fc9fcc084ff4.svg" width="70px">
-  <br>
-  <strong>Current theme: Aura Theme</strong>
-</div>
-  
 <!---======================================================================================================================================================--->
 
 <br><br>

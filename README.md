@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="50px">
 </div>
 <br/>
-<h2 align="center"> My Favorities</h2>
+<h2 align="center"> My Favorites</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">
   <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">

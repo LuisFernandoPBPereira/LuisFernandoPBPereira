@@ -22,7 +22,6 @@
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" width="60px">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/php.svg" width="80px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/go.svg" width="100px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-plusplus.svg" width="50px">
@@ -31,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/python.svg" width="50px"/>
   <img src="https://user-images.githubusercontent.com/86135150/196010956-8bcf4aa3-9c65-47b0-ba02-1bbe32f410c7.svg" width="40px">
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/batch.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/go.svg" width="100px">
 </div>
 <br/>
 <h2 align="center"> My Favorites</h2>

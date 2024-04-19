@@ -13,34 +13,35 @@
 <!---======================================================================================================================================================--->
 ***
 
-<!---============================================================= My Stacks - Languages and IDE ==========================================================--->
+<!---============================================================= Languages  ==========================================================--->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">
-  <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" width="60px">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/php.svg" width="80px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-plusplus.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/dotnet.svg" width="50px"/>
-  <img src="https://user-images.githubusercontent.com/86135150/196010957-535c1b33-9f2d-4304-b603-39bbbc17a914.svg" width="60px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/python.svg" width="50px"/>
-  <img src="https://user-images.githubusercontent.com/86135150/196010956-8bcf4aa3-9c65-47b0-ba02-1bbe32f410c7.svg" width="40px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/batch.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/go.svg" width="100px">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">&emsp;
+  <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="45px">&emsp;
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="45px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" width="60px">&emsp;
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" width="50px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/php.svg" width="80px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg" width="50px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-plusplus.svg" width="50px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">&emsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/dotnet.svg" width="50px"/>&emsp;
+  <img src="https://user-images.githubusercontent.com/86135150/196010957-535c1b33-9f2d-4304-b603-39bbbc17a914.svg" width="60px">&emsp;
+  <img src="https://user-images.githubusercontent.com/86135150/196010956-8bcf4aa3-9c65-47b0-ba02-1bbe32f410c7.svg" width="40px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/python.svg" width="50px"/>&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/batch.svg" width="50px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/go.svg" width="100px">&emsp;
 </div>
 <br/>
 <h2 align="center"> My Favorites</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">
-  <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/dotnet.svg" width="50px"/>
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">&emsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/dotnet.svg" width="50px"/>&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg" width="50px">&emsp;
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">&emsp;
+  <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="45px">&emsp;
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="45px">&emsp;
 </div>
  
 <br>
@@ -62,11 +63,16 @@
 
   <h1>Social Media</h1>
   
-  <a href="https://www.linkedin.com/in/luis-fernando-pedro-bom-pereira-1b4821210/" width="1000px"> <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="50px" heigth="50px"> </a>  <p>LinkedIn</p> 
+  <a href="https://www.linkedin.com/in/luis-fernando-pedro-bom-pereira-1b4821210/"> 
+    <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="50px" heigth="50px"> 
+  </a>  
+  <p>LinkedIn</p> 
 
-  <a href="https://www.instagram.com/luis_fernando.dev" width="1000px"> <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/instagram-circle.png" width="50px" heigth="50px"> </a>  <p>Instagram</p> 
   
-  <a href="mailto:luisfernandopbp@gmail.com"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" width="50px" heigth="50px"></a> <p>Gmail</p> 
+  <a href="mailto:luisfernandopbp@gmail.com">
+    <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" width="50px" heigth="50px">
+  </a> 
+  <p>Gmail</p> 
 
   <br><br>
   
@@ -74,12 +80,4 @@
   
 </div>
  
-<!---======================================================================================================================================================--->
 
-<br><br>
-
-<h3>My Package Managers</h3>
-
-<a href="https://www.npmjs.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="30px" heigth="30px"></a> NPM
-
-<a href="https://yarnpkg.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" width="30px" heigth="30px"></a> Yarn

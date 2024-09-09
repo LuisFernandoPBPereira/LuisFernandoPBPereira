@@ -31,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/python.svg" width="50px"/>&emsp;
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/batch.svg" width="50px">&emsp;
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/go.svg" width="100px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/dart.svg" width="50px">&emsp;
 </div>
 <br/>
 <h2 align="center"> My Favorites</h2>

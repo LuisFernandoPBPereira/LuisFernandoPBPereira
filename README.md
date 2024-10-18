@@ -19,6 +19,7 @@
   <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">&emsp;
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="45px">&emsp;
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="45px">&emsp;
+  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" width="60px">&emsp;
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" width="60px">&emsp;
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" width="50px">&emsp;
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/php.svg" width="80px">&emsp;

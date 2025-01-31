@@ -63,21 +63,6 @@
   
   <!---===================================================================== Social Media ===================================================================--->
 <div align="center">
-
-  <h1>Social Media</h1>
-  
-  <a href="https://www.linkedin.com/in/luis-fernando-pedro-bom-pereira-1b4821210/"> 
-    <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="50px" heigth="50px"> 
-  </a>  
-  <p>LinkedIn</p> 
-
-  
-  <a href="mailto:luisfernandopbp@gmail.com">
-    <img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" width="50px" heigth="50px">
-  </a> 
-  <p>Gmail</p> 
-
-  <br><br>
   
   <img align="center" src="https://c.tenor.com/ueusBEmmXfQAAAAC/xbox-gaming.gif" width="30%" heigth="30%" >
   

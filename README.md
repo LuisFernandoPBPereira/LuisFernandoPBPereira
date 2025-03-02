@@ -14,37 +14,38 @@
 ***
 
 <!---============================================================= Languages  ==========================================================--->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">&emsp;
-  <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="45px">&emsp;
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="45px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" width="60px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" width="60px">&emsp;
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/php.svg" width="80px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-plusplus.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/dotnet.svg" width="50px"/>&emsp;
-  <img src="https://user-images.githubusercontent.com/86135150/196010957-535c1b33-9f2d-4304-b603-39bbbc17a914.svg" width="60px">&emsp;
-  <img src="https://user-images.githubusercontent.com/86135150/196010956-8bcf4aa3-9c65-47b0-ba02-1bbe32f410c7.svg" width="40px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/python.svg" width="50px"/>&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/batch.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/go.svg" width="100px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/dart.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/flutter.svg" width="38px">&emsp;
-</div>
-<br/>
+
+
+![c](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=white&logoSize=auto&color=%23A8B9CC)
+![cplusplus](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto&color=%2300599C)
+![csharp](https://img.shields.io/badge/csharp-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%23512BD4)
+![dotnet](https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto&color=%23512BD4)
+![xamarin](https://img.shields.io/badge/xamarin-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%23512BD4)
+![java](https://img.shields.io/badge/java-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%23A8B9CC)
+![javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto&color=%23F7DF1E)
+![typescript](https://img.shields.io/badge/typescrpit-white?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&color=%233178C6)
+![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=ffffff&logoSize=auto)
+![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=ffffff&logoSize=auto)
+![vuejs](https://img.shields.io/badge/Vue.js-lightgreen?style=for-the-badge&logo=vuedotjs&logoColor=000000&logoSize=auto)
+![reactjs](https://img.shields.io/badge/React.js-lightblue?style=for-the-badge&logo=react&logoColor=000000&logoSize=auto&color=%2361DAFB)
+![nodejs](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&color=%235FA04E)
+![php](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&color=%23777BB4)
+![python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&color=%233776AB)
+![go](https://img.shields.io/badge/go-white?style=for-the-badge&logo=go&logoColor=white&logoSize=auto&color=%2300ADD8)
+![dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=white&logoSize=auto&color=%230175C2)
+![flutter](https://img.shields.io/badge/fllutter-white?style=for-the-badge&logo=flutter&logoColor=white&logoSize=auto&color=%2302569B)
+
 <h2 align="center"> My Favorites</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/dotnet.svg" width="50px"/>&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50px">&emsp;
-  <img src="https://user-images.githubusercontent.com/86135150/196008212-d0fcf24d-cff9-4579-b171-afda4290aee9.svg" width="50px">&emsp;
-  <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="45px">&emsp;
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="45px">&emsp;
+  
+  ![csharp](https://img.shields.io/badge/csharp-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%23512BD4)
+  ![dotnet](https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto&color=%23512BD4)
+  ![c](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=white&logoSize=auto&color=%23A8B9CC)
+  ![javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto&color=%23F7DF1E)
+  ![typescript](https://img.shields.io/badge/typescrpit-white?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&color=%233178C6)
+  ![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=ffffff&logoSize=auto)
+  ![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=ffffff&logoSize=auto)
+  ![vuejs](https://img.shields.io/badge/Vue.js-lightgreen?style=for-the-badge&logo=vuedotjs&logoColor=000000&logoSize=auto)
 </div>
  
 <br>

@@ -6,7 +6,7 @@
 - 🔠 I've B1 Intermediate in English at EF SET - Education First // <a href="https://www.efset.org/cert/9PZnG8">Certificate</a>
 - 🔥 I really like C#, Javascript and your frameworks and libraries
 - 🎮 I love so much videogames
-- 🙏✝ I am part of the <a href="https://github.com/buscafe">BuscaFé</a> project (ETEC)
+- 🙏✝ I contributed to the <a href="https://github.com/buscafe">BuscaFé</a> project (ETEC)
 - 🔥 Here is my portfolio to see my built projects: <a href="https://luis-fernando-dev.vercel.app/">https://luis-fernando-dev.vercel.app/</a>
 
 <!---======================================================================================================================================================--->

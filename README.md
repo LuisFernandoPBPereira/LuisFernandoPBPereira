@@ -3,7 +3,7 @@
 
 - 💻 I've a degree in Systems Development at the ETEC (Escola Técnica de Embu // Technical School - Embu)
 - 💻 I'm studying Computer Science at UNASP
-- 🔠 I've B1 Intermediate in English at EF SET - Education First // <a href="https://www.efset.org/cert/9PZnG8">Certificate</a>
+- 🔠 I've B2 Intermediate in English at EF SET - Education First // <a href="https://www.efset.org/cert/9PZnG8">Certificate</a>
 - 🔥 I really like C#, Javascript and your frameworks and libraries
 - 🎮 I love so much videogames
 - 🙏✝ I contributed to the <a href="https://github.com/buscafe">BuscaFé</a> project (ETEC)
